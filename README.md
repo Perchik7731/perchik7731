@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="images/my_awesome_gif.gif" alt="Приветственная GIF" width="200">
+<img src="new-york-nyc.gif" alt="Приветственная GIF" width="200">
